@@ -1,4 +1,4 @@
-# Lab8-Password-Security-Cisco
+# Password-Security-Cisco
 # Lab 8: Strong Passwords and Password Protection
 
 Cisco Packet Tracer project, HCL Career Shaper (Network Security).
